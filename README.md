@@ -28,5 +28,5 @@ A simple **console-based expense tracker** built with Python that lets you recor
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/expense-tracker-python.git
+   git clone https://github.com/SaraImtiyaz22/expense-tracker-python.git
    cd expense-tracker-python
